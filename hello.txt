@@ -1,2 +1,6 @@
 Hello Git
+<<<<<<< HEAD
 This is my remote change.
+=======
+This is my local change.
+>>>>>>> 47827ea (Added local changes)
